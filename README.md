@@ -1,2 +1,3 @@
-# dalouna-12428610-web1
-Dalouna project for web 1 assignment
+Nsralla dabeek 12428610
+
+This Project is a palestinian resturants web page where the usesr can view the menu and info about the resturant
