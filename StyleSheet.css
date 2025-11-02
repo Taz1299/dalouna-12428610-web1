@@ -178,7 +178,7 @@ body {
     height: auto;            
     flex: 1 1 300px;             
     min-width: 250px;           
-    height: auto;                
+              
     
 
 
@@ -189,7 +189,7 @@ body {
     gap: 30px;
     box-sizing: border-box;
     max-width: 100%;
-    align-items: stretch;       /
+    align-items: stretch;       
     flex-wrap: wrap;           
     flex-direction: row;
     margin: 0 auto;               
@@ -298,7 +298,16 @@ display: flex;
 
 .footer-text {
   margin: 0;
+  
 }
+
+#footer-link {
+    margin-right:50px;
+    text-decoration: none;
+    color:green;
+    font-weight:700;
+}
+
 
 
 
